@@ -1,0 +1,21 @@
+{
+  "name": "symux-to-couch",
+  "version": "0.0.2",
+  "description": "Node daemon to stream symux metrics to couchdb",
+  "main": "symux-to-couch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "couchdb",
+    "couch",
+    "symux",
+    "symon"
+  ],
+  "author": "Mike Wolman <mike@wolman.co.uk>",
+  "license": "BSD",
+  "homepage": "https://github.com/sysadminmike",
+  "dependencies": {
+    "nano": ">=6.0.2"
+  }
+}
